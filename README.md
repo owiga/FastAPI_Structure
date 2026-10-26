@@ -36,4 +36,4 @@ source venv/bin/activate  # For Linux/macOS
 # venv\Scripts\activate   # For Windows
 
 # Install dependencies
-pip install fastapi uvicorn```
+pip install fastapi uvicorn
