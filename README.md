@@ -2,6 +2,11 @@
 
 A production-ready, modular asynchronous backend built with **FastAPI** designed for task creation, background execution, and state persistence.
 
+##
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![SQLite](https://img.shields.io/badge/SQLite-3-lightgrey)
+
 ## 🚀 Key Features
 
 - **Asynchronous Execution:** Non-blocking API responses leveraging FastAPI's `BackgroundTasks`.
